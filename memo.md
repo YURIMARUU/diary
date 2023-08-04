@@ -119,3 +119,11 @@ TypeScript
 - [ ] type 型エイリアス
 - [ ]  <HelloWorld :msg=100 />
 - [ ] type: String as PropType<string>
+
+
+Front End Library
+- [ ] storybook コンポーネントごとの動作チェックなど
+- [ ] resetCSS　デフォルトのスタイル、paddingなどのリセット
+- [ ] eslint, stylelint
+- [ ] prettier
+- [ ] plop
